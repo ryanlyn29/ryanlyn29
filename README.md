@@ -1,122 +1,57 @@
-## Hi there 👋
+# Ryan Lyncee
 
-<h1 align="center">Hey, I'm Ryan Lyncee 👋</h1>
-<h3 align="center">Fullstack Engineer & UI/UX Designer</h3>
-
-<p align="center">
-  <a href="https://ryanlyncee.vercel.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/ryanlyncee">LinkedIn</a> •
-  <a href="mailto:ryanlyncee29@gmail.com">Email</a>
-</p>
+**Fullstack Engineer** | Computer Engineering @ Florida International University (Class of 2027) | Miami, FL
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-I'm a Computer Engineering student at **Florida International University** (Class of 2027) with a **3.89 GPA** and Dean's List recognition. Passionate about building beautiful, functional user interfaces and working with cutting-edge technologies. Based in Miami, FL 🌴
-
-- 🔭 Currently working on real-time collaboration systems and modern web applications
-- 🌱 Always learning new technologies and best practices
-- 💬 Open to discussing fullstack development, UI/UX design, and tech innovation
-- 📫 Reach me at: **ryanlyncee29@gmail.com**
-- ⚡ Fun fact: I architect sub-millisecond collaborative canvas systems!
+Computer Engineering student with a focus on building scalable fullstack applications and real-time systems. Passionate about clean architecture, performance optimization, and creating intuitive user experiences. Currently maintaining a 3.89 GPA with Dean's List recognition.
 
 ---
 
-### 🛠️ Technologies & Tools
+## Currently Working On
 
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- Building enterprise-grade payment platforms with real-time monitoring and analytics
+- Developing physics simulation systems for 3D visualization workflows
+- Architecting real-time collaborative applications with sub-millisecond performance
+- Contributing to fullstack projects using modern web technologies
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-#### [WhiteFlow](https://github.com/ryanlyn29/WhiteFlow)
-High-performance collaborative canvas system with real-time collaboration using Socket.io and Redis. Features sub-millisecond performance with a zoomable infinite canvas.
+**Payflow** - Enterprise payment platform with real-time monitoring, React/TypeScript frontend, Node.js API, and Go workers. Features payment exploration, alerts, dashboards, audit logs, automation, OAuth, and AI chat.
 
-#### [AgentGuard](https://github.com/4shivv/Sharkbyte_2025)
-AI security platform for LLM vulnerability scanning with automated remediation workflows and comprehensive security dashboards.
+**Navora** - Headless physics simulation system generating time-sampled USD files for Blender and Omniverse visualization. Built with C++ for high-performance 3D workflows.
 
-#### [Clinix](https://github.com/HitMonrillo/Clinix)
-Modular AI healthcare assistant with secure appointment scheduling and insurance estimates, containerized with Docker and FastAPI.
+**WhiteFlow** - Real-time collaborative whiteboard application with integrated games, chat, and productivity features. Enables seamless team collaboration with synchronized drawing and interactive tools.
 
-#### [Portfolio Website](https://github.com/ryanlyn29/Portfolio)
-Interactive portfolio with iOS-inspired bento grid layout, built with React, TypeScript, and Framer Motion.
-
-**[View All Projects →](https://ryanlyncee.vercel.app)**
+**[View All Projects →](https://github.com/ryanlyn29)**
 
 ---
 
-### 📊 GitHub Stats
+## Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanlyn29&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlyn29&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
-</p>
+**Languages:** Java, Python, Node.js, Go, TypeScript, JavaScript (ES6+), SQL, C++
 
----
+**Frontend:** React, HTML5, CSS, Tailwind CSS, HTML5 Canvas
 
-### 📈 Current Focus
+**Backend:** Node.js, Express, FastAPI
 
-- 🔨 Building scalable fullstack applications
-- 🎨 Creating beautiful and intuitive user interfaces
-- ⚡ Optimizing real-time collaboration systems
-- 🐳 Containerizing applications with Docker
-- 🤝 Contributing to open source projects
+**Cloud & Infrastructure:** AWS (SQS), Kubernetes, Docker, PostgreSQL, Redis
+
+**Dev Tools:** Git, RESTful APIs, CI/CD, Agile, Postman, Linux
 
 ---
 
-### 🤝 Let's Connect
+## Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/ryanlyncee" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ryanlyn29" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:ryanlyncee29@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://ryanlyncee.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+**Portfolio:** [ryanlyncee.vercel.app](https://ryanlyncee.vercel.app)  
+**LinkedIn:** [linkedin.com/in/ryanlyncee](https://linkedin.com/in/ryanlyncee)  
+**Email:** ryanlyncee29@gmail.com  
+**GitHub:** [github.com/ryanlyn29](https://github.com/ryanlyn29)
 
 ---
 
-<p align="center">
-  <i>Available for freelance work and collaboration opportunities!</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryanlyn29&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
+*Open to opportunities in fullstack development, software engineering, and technical roles.*
