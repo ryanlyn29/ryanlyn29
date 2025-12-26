@@ -10,15 +10,6 @@ Computer Engineering student with a focus on building scalable fullstack applica
 
 ---
 
-## Currently Working On
-
-- Building enterprise-grade payment platforms with real-time monitoring and analytics
-- Developing physics simulation systems for 3D visualization workflows
-- Architecting real-time collaborative applications with sub-millisecond performance
-- Contributing to fullstack projects using modern web technologies
-
----
-
 ## Featured Projects
 
 **Payflow** - Enterprise payment platform with real-time monitoring, React/TypeScript frontend, Node.js API, and Go workers. Features payment exploration, alerts, dashboards, audit logs, automation, OAuth, and AI chat.
