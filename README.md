@@ -1,6 +1,6 @@
 # Ryan Lyncee
 
-**Fullstack Engineer** | Computer Engineering @ Florida International University | Miami, FL
+**Fullstack Engineer** | Computer Engineering Student @ Florida International University | Miami, FL
 
 ---
 
