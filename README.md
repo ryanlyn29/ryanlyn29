@@ -18,7 +18,7 @@ Computer Engineering student with a focus on building scalable fullstack applica
 
 **WhiteFlow** - Real-time collaborative whiteboard application with integrated games, chat, and productivity features. Enables seamless team collaboration with synchronized drawing and interactive tools.
 
-**[View All Projects →](https://github.com/ryanlyn29)**
+**[View All Projects →](https://github.com/ryanlyn29?tab=repositories)**
 
 ---
 
