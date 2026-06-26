@@ -1,48 +1,64 @@
+<div align="center">
+
 # Ryan Lyncee
 
-**Fullstack Engineer** | Computer Engineering Student @ Florida International University | Miami, FL
+**Building at the intersection of product, software, and data.**
+
+Computer Engineering @ FIU · Miami, FL
+Shipping **Inline**
+
+[Portfolio](https://ryanlyncee.vercel.app) · [LinkedIn](https://linkedin.com/in/ryanlyncee) · [Email](mailto:ryanlyncee29@gmail.com)
+
+</div>
 
 ---
 
-## About Me
+### About
 
-Computer Engineering student with a focus on building scalable fullstack applications and real-time systems. Passionate about clean architecture, performance optimization, and creating intuitive user experiences. Currently maintaining a 3.89 GPA with Dean's List recognition.
+```ts
+const ryan = {
+  studying: "Computer Engineering @ Florida International University",
+  focus: ["Product", "Software Engineering", "Data"],
+  shipping: "Inline",
+  interestedIn: [
+    "products people actually use",
+    "AI-assisted workflows",
+    "data-driven decision making",
+    "clean, useful software"
+  ],
+  next: "Incoming Digital Technology Co-op @ GE Appliances",
+  basedIn: "Miami, FL"
+};
+```
 
----
+I like building products from the ground up: understanding the problem, designing the experience, writing the code, and using data to make better decisions.
 
-## Featured Projects
-
-**Payflow** - Enterprise payment platform with real-time monitoring, React/TypeScript frontend, Node.js API, and Go workers. Features payment exploration, alerts, dashboards, audit logs, automation, OAuth, and AI chat.
-
-**Navora** - Headless physics simulation system generating time-sampled USD files for Blender and Omniverse visualization. Built with C++ for high-performance 3D workflows.
-
-**WhiteFlow** - Real-time collaborative whiteboard application with integrated games, chat, and productivity features. Enables seamless team collaboration with synchronized drawing and interactive tools.
-
-**[View All Projects →](https://github.com/ryanlyn29?tab=repositories)**
-
----
-
-## Technologies
-
-**Languages:** Java, Python, Node.js, Go, TypeScript, JavaScript (ES6+), SQL, C++
-
-**Frontend:** React, HTML5, CSS, Tailwind CSS, HTML5 Canvas
-
-**Backend:** Node.js, Express, FastAPI
-
-**Cloud & Infrastructure:** AWS (SQS), Kubernetes, Docker, PostgreSQL, Redis
-
-**Dev Tools:** Git, RESTful APIs, CI/CD, Agile, Postman, Linux
+Right now, I’m shipping **Inline**, a product exploring how people can better pick up where they left off across the web.
 
 ---
 
-## Connect With Me
+### Shipping
 
-**Portfolio:** [ryanlyncee.vercel.app](https://ryanlyncee.vercel.app)  
-**LinkedIn:** [linkedin.com/in/ryanlyncee](https://linkedin.com/in/ryanlyncee)  
-**Email:** ryanlyncee29@gmail.com  
-**GitHub:** [github.com/ryanlyn29](https://github.com/ryanlyn29)
+| Project        | What it is                                                                             | Why it matters                                                                 |
+| -------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Inline**     | AI-powered web app / Chrome extension for continuing work across browsing sessions     | Helps people keep context, reduce friction, and return to what they were doing |
+| **WhiteFlow**  | Real-time collaborative workspace with whiteboard, chat, games, and productivity tools | Explores how teams can work together in more interactive online spaces         |
+| **AgentGuard** | AI agent verification system for monitoring and validating agent behavior              | Focuses on reliability, trust, and safer AI workflows                          |
 
 ---
 
-*Open to opportunities in fullstack development, software engineering, and technical roles.*
+### Tools I Use
+
+**Languages:** Python, TypeScript, JavaScript, Java, C++, SQL
+**Frontend:** React, Next.js, Tailwind CSS
+**Backend:** Node.js, Express, PostgreSQL, Redis
+**Data / AI:** Databricks, Spark SQL, pandas, scikit-learn, Streamlit
+**Tools:** Git, Docker, Linux, Postman
+
+---
+
+### Reach Out
+
+I’m open to talking about product, software engineering, data, AI tools, or early-stage ideas.
+
+[Email](mailto:ryanlyncee29@gmail.com) · [LinkedIn](https://linkedin.com/in/ryanlyncee) · [Portfolio](https://ryanlyncee.vercel.app)
