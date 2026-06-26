@@ -32,27 +32,19 @@ const ryan = {
 };
 ```
 
-
-
-I like building products from the ground up: understanding the problem, designing the experience, writing the code, and using data to make better decisions.
-
-Right now, I’m shipping **Inline**, a product exploring how people can better pick up where they left off across the web.
-
 ---
 
 ### Shipping
 
-| Project        | What it is                                                                                                    | Why it matters                                                                                  |
-| -------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **Inline**     | AI-powered web app and Chrome extension for continuing work across browsing sessions                          | Helps users preserve context, recover momentum, and continue their work with less friction |
-| **WhiteFlow**  | Real-time collaborative workspace with whiteboarding, chat, productivity tools, and an interactive game suite | Brings collaboration, focus, and lightweight team interaction into one shared workspace          |
-| **AgentGuard** | AI agent verification system for monitoring and validating agent behavior                                     | Improves trust in AI systems by making agent behavior easier to inspect, test, and validate     |
-
-
+| Project        | What it is                                                                                                    | Why it matters                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Inline**     | AI-powered web app and Chrome extension for continuing work across browsing sessions                          | Helps users preserve context, recover momentum, and continue their work with less friction  |
+| **WhiteFlow**  | Real-time collaborative workspace with whiteboarding, chat, productivity tools, and an interactive game suite | Brings collaboration, focus, and lightweight team interaction into one shared workspace     |
+| **AgentGuard** | AI agent verification system for monitoring and validating agent behavior                                     | Improves trust in AI systems by making agent behavior easier to inspect, test, and validate |
 
 ---
 
-### Tools I Use
+### Tools
 
 **Languages:** Python, TypeScript, JavaScript, Java, C++, SQL
 
@@ -63,11 +55,3 @@ Right now, I’m shipping **Inline**, a product exploring how people can better 
 **Data / AI:** Databricks, Spark SQL, pandas, scikit-learn, Streamlit
 
 **Tools:** Git, Docker, Linux, Postman
-
----
-
-### Reach Out
-
-I’m open to talking about product, software engineering, data, AI tools, or early-stage ideas.
-
-[Email](mailto:ryanlyncee29@gmail.com) · [LinkedIn](https://linkedin.com/in/ryanlyncee) · [Portfolio](https://ryanlyncee.vercel.app)
