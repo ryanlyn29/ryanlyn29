@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ryan Lyncee
+# Hey I'm Ryan 👋
 
 **Building at the intersection of product, software, and data.**
 
