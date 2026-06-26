@@ -18,18 +18,21 @@ Shipping **Inline**
 ```ts
 const ryan = {
   studying: "Computer Engineering @ Florida International University",
-  focus: ["Product", "Software Engineering", "Data"],
+  focus: ["Product Management", "Software Engineering", "Data / AI"],
   shipping: "Inline",
   interestedIn: [
-    "products people actually use",
-    "AI-assisted workflows",
-    "data-driven decision making",
-    "clean, useful software"
+    "user research and product discovery",
+    "software development for user-facing products",
+    "data analysis for product decisions",
+    "AI-assisted workflows and productivity tools",
+    "turning user needs into shipped features"
   ],
   next: "Incoming Digital Technology Co-op @ GE Appliances",
   basedIn: "Miami, FL"
 };
 ```
+
+
 
 I like building products from the ground up: understanding the problem, designing the experience, writing the code, and using data to make better decisions.
 
@@ -39,11 +42,13 @@ Right now, I’m shipping **Inline**, a product exploring how people can better 
 
 ### Shipping
 
-| Project        | What it is                                                                                                    | Why it matters                                                                           |
-| -------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Inline**     | AI-powered web app and Chrome extension for continuing work across browsing sessions                          | Helps users preserve context, reduce friction, and return to important work faster       |
-| **WhiteFlow**  | Real-time collaborative workspace with whiteboarding, chat, productivity tools, and an interactive game suite | Creates a more engaging online space for teams to collaborate, focus, and stay connected |
-| **AgentGuard** | AI agent verification system for monitoring and validating agent behavior                                     | Focuses on reliability, trust, and safer AI-assisted workflows                           |
+| Project        | What it is                                                                                                    | Why it matters                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Inline**     | AI-powered web app and Chrome extension for continuing work across browsing sessions                          | Helps users preserve context, recover momentum, and continue their work with less friction |
+| **WhiteFlow**  | Real-time collaborative workspace with whiteboarding, chat, productivity tools, and an interactive game suite | Brings collaboration, focus, and lightweight team interaction into one shared workspace          |
+| **AgentGuard** | AI agent verification system for monitoring and validating agent behavior                                     | Improves trust in AI systems by making agent behavior easier to inspect, test, and validate     |
+
+
 
 ---
 
